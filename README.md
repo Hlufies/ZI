@@ -6,6 +6,8 @@
 - [ ] DDPM
 - [ ] DDIM
 - [ ] Stable Diffusion
+- [ ] SD-WebUI
+- [ ] Kohya_ss
 - [ ] Lora
 - [ ] ControlNet
 - [ ] Dreambooth
@@ -14,4 +16,7 @@
 - [ ] 文生图-文本细节
 - [ ] 图生图-图像细节
 - [ ] video Stable Diffusion
+- [ ] 声频 Stable Diffusion
+- [ ] ChatGPT-剧本(文本)
+
       
