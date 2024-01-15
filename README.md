@@ -22,5 +22,6 @@
 # Resource List
 - **文本到图像生成的多奖励强化学习框架：**[Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation](https://arxiv.org/abs/2401.05675)
 - **文-图-视频：**[AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](https://github.com/MooreThreads/Moore-AnimateAnyone.git)
+- **LLM-SD生成视频**:[VideoPoet: A Large Language Model for Zero-Shot Video Generation]()
 
       
