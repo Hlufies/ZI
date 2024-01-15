@@ -20,7 +20,7 @@
 - [ ] ChatGPT-剧本(文本)
 
 # Resource List
-- 文本到图像生成的多奖励强化学习框架[Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation](https://arxiv.org/abs/2401.05675)
+- **文本到图像生成的多奖励强化学习框架：**[Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation](https://arxiv.org/abs/2401.05675)
 - 
 
       
