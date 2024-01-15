@@ -2,7 +2,7 @@
 旨在实现一个优秀的剧本-角色-视频的AIGC
 
 
-# WORK LIST
+# Work List
 - [ ] DDPM
 - [ ] DDIM
 - [ ] Stable Diffusion
@@ -18,5 +18,8 @@
 - [ ] video Stable Diffusion
 - [ ] 声频 Stable Diffusion
 - [ ] ChatGPT-剧本(文本)
+
+# Resource List
+- [Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation](https://arxiv.org/abs/2401.05675)
 
       
