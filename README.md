@@ -38,6 +38,7 @@
 - **DreaMoving**
 - **Magic Animate**
 - **Animate anymore**
-- 
+- **DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models**
+- **Clockwork Diffusion: Efficient Generation With Model-Step Distillation**
 
       
