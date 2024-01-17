@@ -40,5 +40,6 @@
 - **Animate anymore**
 - **DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models**
 - **Clockwork Diffusion: Efficient Generation With Model-Step Distillation**
+- **LLaVA-ϕ: Efficient Multi-Modal Assistant with Small Language Model**
 
       
