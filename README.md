@@ -26,5 +26,6 @@
 - **LLM-SD生成视频**:[VideoPoet: A Large Language Model for Zero-Shot Video Generation]()
 - **多模态对齐VIT-LENS-2**:[ViT-Lens-2: Gateway to Omni-modal Intelligence](https://github.com/TencentARC/ViT-Lens.git)
 - **图像分割-inpainting**[segment-anything](https://github.com/facebookresearch/segment-anything)
+- **多模态条件可控视频生成MoonShot**
 
       
