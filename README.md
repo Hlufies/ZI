@@ -27,5 +27,17 @@
 - **多模态对齐VIT-LENS-2**:[ViT-Lens-2: Gateway to Omni-modal Intelligence](https://github.com/TencentARC/ViT-Lens.git)
 - **图像分割-inpainting**[segment-anything](https://github.com/facebookresearch/segment-anything)
 - **多模态条件可控视频生成MoonShot**
+- **DreamTuner**
+- **I2V-Adapter**
+- **SSR-ENCODER**
+- **Align your Latents: 基于潜在扩散模型的高分辨率视频合成**
+- **MagicVideo-V2: 多阶段高美感视频生成**
+- **SparseCtrl：在文本生成视频的扩散模型中添加稀疏控制**
+- **MotionCtrl的相机运动控制和物体运动控制**
+- **Livephoto**
+- **DreaMoving**
+- **Magic Animate**
+- **Animate anymore**
+- 
 
       
