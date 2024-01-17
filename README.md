@@ -3,7 +3,7 @@
 
 
 # Work List
-- [ ] DDPM
+- [*] DDPM
 - [ ] DDIM
 - [ ] Stable Diffusion
 - [ ] SD-WebUI
