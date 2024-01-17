@@ -3,10 +3,10 @@
 
 
 # Work List
-- [*] DDPM
-- [ ] DDIM
-- [ ] Stable Diffusion
-- [ ] SD-WebUI
+- [x] DDPM
+- [x] DDIM
+- [x] Stable Diffusion
+- [x] SD-WebUI
 - [ ] Kohya_ss
 - [ ] Lora
 - [ ] ControlNet
