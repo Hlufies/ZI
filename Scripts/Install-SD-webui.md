@@ -54,5 +54,6 @@ hint: See above for details.
 [notice] To update, run: pip install --upgrade pip
 ```
 ```
+取消源
 pip config set global.index-url http://mirrors.aliyun.com/pypi/simple/ 
 ```
