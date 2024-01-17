@@ -10,6 +10,7 @@
 - [ ] Kohya_ss
 - [ ] Lora
 - [ ] ControlNet
+- [ ] [SDXL](https://github.com/lllyasviel/Fooocus.git)
 - [ ] Dreambooth
 - [ ] Lora Merge
 - [ ] 美学评分框架
