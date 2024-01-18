@@ -1,4 +1,4 @@
-# 1. check python version
+# 1. Check python version
 ```
 python --version
 ```
