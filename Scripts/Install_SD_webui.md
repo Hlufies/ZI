@@ -57,6 +57,15 @@ hint: See above for details.
 取消源
 pip config set global.index-url http://mirrors.aliyun.com/pypi/simple/ 
 ```
+
+```
+清华：https://pypi.tuna.tsinghua.edu.cn/simple/
+阿里云：http://mirrors.aliyun.com/pypi/simple/
+中国科技大学：https://pypi.mirrors.ustc.edu.cn/simple/
+华中科技大学：http://pypi.hustunique.com/simple/
+上海交通大学：https://mirror.sjtu.edu.cn/pypi/web/simple/
+豆瓣：http://pypi.douban.com/simple/
+```
 ## 报错3
 ```
 No module 'xformers'. Proceeding without it.
