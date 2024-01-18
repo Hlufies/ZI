@@ -54,8 +54,12 @@ hint: See above for details.
 [notice] To update, run: pip install --upgrade pip
 ```
 ```
-取消源
+1. 安装
 pip config set global.index-url http://mirrors.aliyun.com/pypi/simple/ 
+2、删除源
+pip config unset global.index-url
+3、查看现在用的哪个源
+pip config list
 ```
 
 ```
