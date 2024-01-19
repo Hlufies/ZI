@@ -70,6 +70,14 @@ pip config list
 上海交通大学：https://mirror.sjtu.edu.cn/pypi/web/simple/
 豆瓣：http://pypi.douban.com/simple/
 ```
+
+## 报错3 
+```
+安装Clip失败
+```
+```
+使用Clash for linux
+```
 ## 报错3
 ```
 No module 'xformers'. Proceeding without it.
