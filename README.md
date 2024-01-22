@@ -42,5 +42,6 @@
 - **Clockwork Diffusion: Efficient Generation With Model-Step Distillation**
 - **LLaVA-ϕ: Efficient Multi-Modal Assistant with Small Language Model**
 - **Segment Anything**
+- **[PhotoMaker]**()
 
       
