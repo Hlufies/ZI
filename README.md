@@ -43,5 +43,6 @@
 - **LLaVA-ϕ: Efficient Multi-Modal Assistant with Small Language Model**
 - **Segment Anything**
 - **[PhotoMaker-Personalized]()**
+- **[AI工具](https://ai-bot.cn/)**
 
       
