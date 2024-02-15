@@ -44,6 +44,7 @@
 - **Segment Anything**
 - **[PhotoMaker-Personalized]()**
 - **[InstantId]()**
+- **[Adapter-FaceId]()**
 - **FreeInit**
 - **[AI工具](https://ai-bot.cn/)**
 
