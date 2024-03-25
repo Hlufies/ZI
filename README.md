@@ -7,7 +7,7 @@
 - [x] DDIM
 - [x] Stable Diffusion
 - [x] SD-WebUI
-- [ ] Kohya_ss
+- [x] Kohya_ss
 - [ ] Lora
 - [ ] ControlNet
 - [ ] [SDXL](https://github.com/lllyasviel/Fooocus.git)
