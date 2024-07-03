@@ -21,5 +21,5 @@ ID-Animator: Zero-Shot Identity-Preserving Human Video Generation
 4. 衣服细节和皮肤质感  
 Champ里面细节不够，有点过度拟合Conditions  
 有些论文里面用到canny，提取图像的edge：CTRL-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model  
-![image](https://github.com/Hlufies/ZI/assets/130231524/8a0c306f-91bf-4cc1-aa60-0a56240ef8a7)
+
 
