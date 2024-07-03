@@ -24,5 +24,9 @@ Champ里面细节不够，有点过度拟合Conditions
 有些论文里面用到canny，提取图像的edge：CTRL-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model
 ## 方案
 SMPL-X
+https://smpl.is.tue.mpg.de/index.html   
+https://github.com/vchoutas/smplx/tree/main  
+![img_v3_02ce_2368f827-c326-4910-84b4-042e8f14e96g](https://github.com/Hlufies/ZI/assets/130231524/86408347-3a25-4f06-86ab-d4aeed78e70f)
+
 
 
