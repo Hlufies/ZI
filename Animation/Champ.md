@@ -3,6 +3,10 @@
 1. conda create -n champ python=3.10
 2. conda activate champ
 3. pip install -r requirements.txt
+   ![image](https://github.com/Hlufies/ZI/assets/130231524/cdae645b-e039-4481-8381-411f3623a7dd)  
+   ![image](https://github.com/Hlufies/ZI/assets/130231524/e159f96a-e633-4d4c-9863-f430557e2566)
+
+
 
 # 2024/7/3
 ## 测试Champ，一些问题
