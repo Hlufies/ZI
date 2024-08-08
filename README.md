@@ -1,6 +1,12 @@
 # ZI
 旨在实现一个优秀的剧本-角色-视频的AIGC
 
+Canny
+AI上色
+AI插值
+不同尺寸
+超分
+
 
 # Work List
 - [x] DDPM
